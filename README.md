@@ -4,38 +4,40 @@ I'm going to try to publish a repo every day in 2025.
 
 ## Month 1 Roadmap: AI & Development Foundations
 
-### Week 1: PyTorch & Neural Network Foundations
-Focus on building core neural network components and utilities.
+### Week 1:
 
 | Day | Project Title | Description | Tools/Frameworks |
 |-----|--------------|-------------|------------------|
-| 1 | PyTorch Basics Library | Core tensor operations and utilities | PyTorch, NumPy |
-| 2 | Neural Network Building Blocks | Reusable layer components and architectures | PyTorch |
-| 3 | Training Framework | Standardized training loop interface and tools | PyTorch |
-| 4 | Data Processing Pipeline | Dataset classes and transformations | PyTorch, NumPy |
-| 5 | Model Zoo | Canonical model architectures | PyTorch |
-| 6 | Visualization Suite | Training visualization and model inspection | PyTorch, Plotly |
-| 7 | Experiment Management | Experiment tracking and analysis system | MLflow, PyTorch |
+| 1 | PyTorch Basics Library | Core tensor operations and utilities |
+| 2 | Neural Network Building Blocks | Reusable layer components and architectures |
+| 3 | Think and Speak LLM | LLM processes thoughts before speaking, like a human |
+| 4 | Bob in a 3D Room | Bob in a html 3D room environment |
+| 5 | Model Zoo | Canonical model architectures | 
+| 6 | Bigram Language Model | Bigram Language Model  |
+| 7 | CreateNow Discord Assistant | Discord bot that processes knowledge to answer questions | 
 
-### Week 2: Language Models & Neural Architectures
-Focus on implementing fundamental AI architectures and LLM components.
+### Week 2: 
 
 | Day | Project Title | Description | Tools/Frameworks |
 |-----|--------------|-------------|------------------|
-| 8 | Simple Transformer | Basic transformer architecture implementation | PyTorch |
-| 9 | LLM Fine-tuning Framework | Tools for fine-tuning language models | PyTorch, Transformers |
-| 10 | Neural Adapter System | Framework for model adaptation and transfer | PyTorch |
-| 11 | Attention Mechanisms | Collection of attention implementations | PyTorch |
-| 12 | Embedding Tools | Text and token embedding utilities | PyTorch, NLTK |
-| 13 | Model Compression | Weight pruning and quantization tools | PyTorch |
-| 14 | Training Pipeline | End-to-end training system for LLMs | PyTorch, Transformers |
+| 8 | Image Upscale FastAPI | Image Upscaler using FastAPI | 
+| 9 | LLM Memory Modules At Scale | Pytorch implementation of memory modules at scale | 
+| 10 | Openai Rust | A Rust implementation of the OpenAI API | 
+| 11 | Simple Transformer | Simple Transformer Model |
+| 12 | LLM Speaker (with earpiece) | LLM speaker, but with an earpiece |
+| 13 | Simple LSTM | A simple LSTM model |
+| 14 | QwenVL Image Suggestions | Automating image suggestions with Qwen2VL |
 
-### Coming Up in January
+### Week 3
 
-#### Week 3: Advanced AI Applications (TBD)
-Building practical AI applications including speech processing, autonomous agents, and multimodal systems.
+| Day | Project Title | Description | Tools/Frameworks |
+|-----|--------------|-------------|------------------|
+| 15 | Action Transformer | transformer-based model for sequential decision-making tasks | 
+| 16 | AudioGen FASTAPI | AudioGen hosted on FASTAPI webserver | 
+| 17 | Simple MoE | Simple MoE model | 
+| 18 | Agent Knowledge Generator | A dynamic RAG knowledge system generator |
+| 19 | Action Transformer Environment | A modular playground for deploying Action Transformers with LLM assistance |
 
-#### Week 4: AI Infrastructure & Deployment (TBD)
-Creating scalable AI infrastructure, model serving, and deployment tools.
+#### Week 4 (TBD)
 
 Stay tuned for updates!
