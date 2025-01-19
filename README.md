@@ -6,8 +6,8 @@ I'm going to try to publish a repo every day in 2025.
 
 ### Week 1:
 
-| Day | Project Title | Description | Tools/Frameworks |
-|-----|--------------|-------------|------------------|
+| Day | Project Title | Description | 
+|-----|--------------|-------------|
 | 1 | PyTorch Basics Library | Core tensor operations and utilities |
 | 2 | Neural Network Building Blocks | Reusable layer components and architectures |
 | 3 | Think and Speak LLM | LLM processes thoughts before speaking, like a human |
@@ -18,8 +18,8 @@ I'm going to try to publish a repo every day in 2025.
 
 ### Week 2: 
 
-| Day | Project Title | Description | Tools/Frameworks |
-|-----|--------------|-------------|------------------|
+| Day | Project Title | Description |
+|-----|--------------|-------------|
 | 8 | Image Upscale FastAPI | Image Upscaler using FastAPI | 
 | 9 | LLM Memory Modules At Scale | Pytorch implementation of memory modules at scale | 
 | 10 | Openai Rust | A Rust implementation of the OpenAI API | 
@@ -30,8 +30,8 @@ I'm going to try to publish a repo every day in 2025.
 
 ### Week 3
 
-| Day | Project Title | Description | Tools/Frameworks |
-|-----|--------------|-------------|------------------|
+| Day | Project Title | Description |
+|-----|--------------|-------------|
 | 15 | Action Transformer | transformer-based model for sequential decision-making tasks | 
 | 16 | AudioGen FASTAPI | AudioGen hosted on FASTAPI webserver | 
 | 17 | Simple MoE | Simple MoE model | 
