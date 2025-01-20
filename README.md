@@ -37,6 +37,7 @@ I'm going to try to publish a repo every day in 2025.
 | 17 | Simple MoE | Simple MoE model | 
 | 18 | Agent Knowledge Generator | A dynamic RAG knowledge system generator |
 | 19 | Action Transformer Environment | A modular playground for deploying Action Transformers with LLM assistance |
+| 20 | Simple ViT | A simple vision transformer model |
 
 #### Week 4 (TBD)
 
