@@ -38,7 +38,24 @@ I'm going to try to publish a repo every day in 2025.
 | 18 | Agent Knowledge Generator | A dynamic RAG knowledge system generator |
 | 19 | Action Transformer Environment | A modular playground for deploying Action Transformers with LLM assistance |
 | 20 | Simple ViT | A simple vision transformer model |
+| 21 | Multi Agent Group Chat | Multi-Agent Group Chat Playground is a FastAPI application that simulates collaborative discussions among multiple AI agents |
 
 #### Week 4 (TBD)
 
-Stay tuned for updates!
+| Day | Project Title | Description |
+|-----|--------------|-------------|
+| 22 | Bob Talk To Stream | An AI-powered chatbot that interacts with stream chat and generates speech | 
+| 23 | Stable Diffusion Trainer | Stable Diffusion Qlora Training with caption generation via Chatgpt | 
+| 24 | Speaker Recognition | This application performs real-time speaker recognition and audio transcription | 
+| 25 | Bob The Twitter Agent | AI-powered Twitter assistant that engages in conversations through DMs and mentions |
+| 26 | Codebase To RAG | Retrieval-Augmented Generation (RAG) system for codebases |
+| 27 | Cognitive Group TTS | A real-time conversational system that enables natural interactions between humans and AI agents |
+| 28 | createnow Trending Posts | automated Twitter bot that shares the digital creations at a time interval  |
+
+#### Week 5 (TBD)
+
+| Day | Project Title | Description |
+|-----|--------------|-------------|
+| 29 | createnow x generations | automated bot that handles X/Twitter interactions including DMs, mentions, and content generation  | 
+| 30 | Latent Space Negotiation Simulator | multi-agent economic system simulator where AI agents negotiate tasks, rewards, and resource allocation in a shared latent space  | 
+| 31 | summarize-FASTAPI | simple and efficient text summarization API service built with FastAPI  | 
