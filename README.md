@@ -6,8 +6,8 @@ I'm going to try to publish a repo every day in 2025.
 
 ### Week 1:
 
-| Day | Project Title | Description | 
-|-----|--------------|-------------|
+| Day | Project Title | Description | Link | 
+|-----|--------------|-------------|-------------|
 | 1 | PyTorch Basics Library | Core tensor operations and utilities | https://github.com/peytontolbert/pytorch_basics_library
 | 2 | Neural Network Building Blocks | Reusable layer components and architectures | https://github.com/peytontolbert/neural_network_building_blocks
 | 3 | Think and Speak LLM | LLM processes thoughts before speaking, like a human | https://github.com/peytontolbert/think_and_speak_llm
