@@ -18,8 +18,8 @@ I'm going to try to publish a repo every day in 2025.
 
 ### Week 2: 
 
-| Day | Project Title | Description |
-|-----|--------------|-------------|
+| Day | Project Title | Description | Link | 
+|-----|--------------|-------------|-------------|
 | 8 | Image Upscale FastAPI | Image Upscaler using FastAPI | https://github.com/peytontolbert/image-upscale-fastapi
 | 9 | LLM Memory Modules At Scale | Pytorch implementation of memory modules at scale | https://github.com/peytontolbert/llm_memory_modules_at_scale
 | 10 | Openai Rust | A Rust implementation of the OpenAI API | https://github.com/peytontolbert/openai_rust
@@ -30,8 +30,8 @@ I'm going to try to publish a repo every day in 2025.
 
 ### Week 3
 
-| Day | Project Title | Description |
-|-----|--------------|-------------|
+| Day | Project Title | Description | Link | 
+|-----|--------------|-------------|-------------|
 | 15 | Action Transformer | transformer-based model for sequential decision-making tasks | https://github.com/peytontolbert/action-transformer
 | 16 | AudioGen FASTAPI | AudioGen hosted on FASTAPI webserver | https://github.com/peytontolbert/audiogen-fastapi
 | 17 | Simple MoE | Simple MoE model | https://github.com/peytontolbert/simple-moe
@@ -42,8 +42,8 @@ I'm going to try to publish a repo every day in 2025.
 
 #### Week 4 (TBD)
 
-| Day | Project Title | Description |
-|-----|--------------|-------------|
+| Day | Project Title | Description | Link | 
+|-----|--------------|-------------|-------------|
 | 22 | Bob Talk To Stream | An AI-powered chatbot that interacts with stream chat and generates speech | https://github.com/peytontolbert/bob-talk-to-stream
 | 23 | Stable Diffusion Trainer | Stable Diffusion Qlora Training with caption generation via Chatgpt | https://github.com/peytontolbert/stable-diffusion-trainer
 | 24 | Speaker Recognition | This application performs real-time speaker recognition and audio transcription | https://github.com/peytontolbert/speaker-recognition
@@ -54,8 +54,8 @@ I'm going to try to publish a repo every day in 2025.
 
 #### Week 5 (TBD)
 
-| Day | Project Title | Description |
-|-----|--------------|-------------|
+| Day | Project Title | Description | Link | 
+|-----|--------------|-------------|-------------|
 | 29 | createnow x generations | automated bot that handles X/Twitter interactions including DMs, mentions, and content generation  | https://github.com/peytontolbert/create-x-generations
 | 30 | Latent Space Negotiation Simulator | multi-agent economic system simulator where AI agents negotiate tasks, rewards, and resource allocation in a shared latent space  | https://github.com/peytontolbert/latent_space_negotiation_simulator
 | 31 | summarize-FASTAPI | simple and efficient text summarization API service built with FastAPI  | https://github.com/peytontolbert/summarize-FASTAPI
@@ -68,4 +68,5 @@ I'm going to try to publish a repo every day in 2025.
 | 38 | file-organizer-swarm | File organization swarm that automatically categorizes and organizes files | https://github.com/peytontolbert/file-organizer-swarm
 | 39 | solana-transaction-swarm | Transaction preparation system that uses a swarm of agents to build, sign, and submit Solana transactions | https://github.com/peytontolbert/solana-transaction-swarm
 
-PROJECT CLOSED AT 39 PROJECTS IN 39 DAYS.
+
+## PROJECT CLOSED AT 39 PROJECTS IN 39 DAYS.
